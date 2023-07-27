@@ -14,4 +14,4 @@ def multiplicar(n1, n2):
 
 
 def exponente(base, exponente):
-    return base ^ exponente
+    return base ** exponente
