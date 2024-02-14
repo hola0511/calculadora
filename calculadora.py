@@ -17,5 +17,5 @@ def exponente(base, exponente):
     return base ** exponente
 
 ## cambiar nombre pycharm
-## git config --global user.name "Santiago Muñoz"
-## git config --global user.email santiago@email.com
+## git config --global user.name "hola0511"
+## git config --global user.email espinosaariassamuel@gmail.com
